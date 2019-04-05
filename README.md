@@ -1,1 +1,2 @@
-# cloudcomputing
+# heroku-shoppingcart
+Shopping cart app
